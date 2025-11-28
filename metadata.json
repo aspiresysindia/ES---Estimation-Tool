@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Estimation & Resource Pyramid Planner",
+  "description": "An intelligent planning assistant that ingests RFPs and documents to generate detailed effort estimations, resource loading plans, and phase breakdowns using multimodal AI.",
+  "requestFramePermissions": []
+}
